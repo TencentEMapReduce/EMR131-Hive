@@ -1,0 +1,4 @@
+(jdee-project-file-version "1.0")
+(jdee-set-variables
+  '(jdee-sourcepath '("/Users/chenlong/workspace/oagit/hive-2.1.1/testutils/src/java" "/Users/chenlong/workspace/oagit/hive-2.1.1/testutils/src/test/java" ))
+  '(jdee-global-classpath '("/Users/chenlong/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" "/Users/chenlong/.m2/repository/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar" "/Users/chenlong/workspace/oagit/hive-2.1.1/testutils/target/classes" "/Users/chenlong/.m2/repository/com/google/code/tempus-fugit/tempus-fugit/1.1/tempus-fugit-1.1.jar" "/Users/chenlong/workspace/oagit/hive-2.1.1/testutils/target/test-classes" "/Users/chenlong/.m2/repository/junit/junit/4.11/junit-4.11.jar" )))

@@ -1,0 +1,121 @@
+Fri Jul 13 22:57:14 CST 2018  [debug] AvalonLogSystem initialized using logfile '/Users/chenlong/workspace/oagit/hive-2.1.1/accumulo-handler/velocity.log'
+Fri Jul 13 22:57:14 CST 2018   [info] ************************************************************** 
+Fri Jul 13 22:57:14 CST 2018   [info] Starting Jakarta Velocity v1.4
+Fri Jul 13 22:57:14 CST 2018   [info] RuntimeInstance initializing.
+Fri Jul 13 22:57:14 CST 2018   [info] Default Properties File: org/apache/velocity/runtime/defaults/velocity.properties
+Fri Jul 13 22:57:14 CST 2018   [info] Trying to use logger class org.apache.velocity.runtime.log.AvalonLogSystem
+Fri Jul 13 22:57:14 CST 2018   [info] Using logger class org.apache.velocity.runtime.log.AvalonLogSystem
+Fri Jul 13 22:57:14 CST 2018   [info] Default ResourceManager initializing. (class org.apache.velocity.runtime.resource.ResourceManagerImpl)
+Fri Jul 13 22:57:14 CST 2018   [info] Resource Loader Instantiated: org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ClasspathResourceLoader : initialization starting.
+Fri Jul 13 22:57:14 CST 2018   [info] ClasspathResourceLoader : initialization complete.
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceCache : initialized. (class org.apache.velocity.runtime.resource.ResourceCacheImpl)
+Fri Jul 13 22:57:14 CST 2018   [info] Default ResourceManager initialization complete.
+Fri Jul 13 22:57:14 CST 2018   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+Fri Jul 13 22:57:14 CST 2018   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+Fri Jul 13 22:57:14 CST 2018   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+Fri Jul 13 22:57:14 CST 2018   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Include
+Fri Jul 13 22:57:14 CST 2018   [info] Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+Fri Jul 13 22:57:14 CST 2018   [info] Created: 20 parsers.
+Fri Jul 13 22:57:14 CST 2018   [info] Velocimacro : initialization starting.
+Fri Jul 13 22:57:14 CST 2018   [info] Velocimacro : adding VMs from VM library template : VM_global_library.vm
+Fri Jul 13 22:57:14 CST 2018  [error] ResourceManager : unable to find resource 'VM_global_library.vm' in any resource loader.
+Fri Jul 13 22:57:14 CST 2018   [info] Velocimacro : error using  VM library template VM_global_library.vm : org.apache.velocity.exception.ResourceNotFoundException: Unable to find resource 'VM_global_library.vm'
+Fri Jul 13 22:57:14 CST 2018   [info] Velocimacro :  VM library template macro registration complete.
+Fri Jul 13 22:57:14 CST 2018   [info] Velocimacro : allowInline = true : VMs can be defined inline in templates
+Fri Jul 13 22:57:14 CST 2018   [info] Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+Fri Jul 13 22:57:14 CST 2018   [info] Velocimacro : allowInlineLocal = false : VMs defined inline will be  global in scope if allowed.
+Fri Jul 13 22:57:14 CST 2018   [info] Velocimacro : messages on  : VM system will output logging messages
+Fri Jul 13 22:57:14 CST 2018   [info] Velocimacro : autoload off  : VM system will not automatically reload global library macros
+Fri Jul 13 22:57:14 CST 2018   [info] Velocimacro : initialization complete.
+Fri Jul 13 22:57:14 CST 2018   [info] Velocity successfully started.
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:14 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:23 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:28 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:29 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:29 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:29 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:29 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:30 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:30 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:32 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:34 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:34 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:34 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:35 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:36 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:41 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:57:50 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:21 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:37 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:37 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:37 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:38 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:38 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:38 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:38 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:38 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:38 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:38 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:38 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:38 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:38 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:39 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:40 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:41 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:41 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:41 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:41 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:41 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:41 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:41 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:41 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:41 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:41 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:41 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:58:41 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader
+Fri Jul 13 22:59:40 CST 2018   [info] ResourceManager : found META-INF/prj.vm with loader org.apache.velocity.runtime.resource.loader.ClasspathResourceLoader

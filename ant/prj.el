@@ -1,0 +1,4 @@
+(jdee-project-file-version "1.0")
+(jdee-set-variables
+  '(jdee-sourcepath '("/Users/chenlong/workspace/oagit/hive-2.1.1/ant/src/test/java" "/Users/chenlong/workspace/oagit/hive-2.1.1/ant/src" ))
+  '(jdee-global-classpath '("/Users/chenlong/workspace/oagit/hive-2.1.1/ant/target/test-classes" "/Users/chenlong/.m2/repository/org/apache/ant/ant-launcher/1.9.1/ant-launcher-1.9.1.jar" "/Users/chenlong/.m2/repository/org/apache/ant/ant/1.9.1/ant-1.9.1.jar" "/Users/chenlong/.m2/repository/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar" "/Users/chenlong/.m2/repository/oro/oro/2.0.8/oro-2.0.8.jar" "/Users/chenlong/workspace/oagit/hive-2.1.1/ant/target/classes" "/Users/chenlong/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" "/Users/chenlong/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar" "/Users/chenlong/.m2/repository/org/apache/velocity/velocity/1.5/velocity-1.5.jar" )))
